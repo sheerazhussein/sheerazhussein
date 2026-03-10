@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=SHEERAZ%20HUSSEIN&fontSize=35&fontColor=a78bfa&fontAlignY=65" alt="Header" />
+  <img width="100%" height="80px" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=SHEERAZ%20HUSSEIN&fontSize=35&fontColor=a78bfa&fontAlignY=65" alt="Header" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Software+Developer+%7C+Karachi%2C+Pakistan;React+%26+Next.js+%E2%80%94+Building+Fast%2C+Modern+UIs;Node.js+%26+Express.js+%E2%80%94+Scalable+REST+APIs;PHP+%2F+Laravel+%E2%80%94+Robust+Backend+Systems;WordPress+%E2%80%94+Custom+Themes+%26+Plugins;MongoDB+%26+MySQL+%E2%80%94+Full+Database+Coverage;Java+%26+DSA+%E2%80%94+Strong+CS+Foundations;JWT+Auth+%7C+CRUD+%7C+API+Integration;Git+%26+GitHub+%E2%80%94+Clean+Version+Control;Building+Scalable%2C+High-Impact+Projects;Lifelong+Learner+%7C+Always+Leveling+Up)](https://git.io/typing-svg)
