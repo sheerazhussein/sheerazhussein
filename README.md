@@ -272,7 +272,7 @@ const developer = {
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheerazhusein@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheerazhussein)
-[![LeetCode](https://img.shields.io/badge/LeetCode-20%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sheerazhussein)
+[![LeetCode](https://img.shields.io/badge/LeetCode-40%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sheerazhussein)
 
 
 </div>
