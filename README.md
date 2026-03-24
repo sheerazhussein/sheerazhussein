@@ -40,7 +40,7 @@ const developer = {
     cs:        ["Java", "DSA", "OOP"],
   },
   currentlyLearning: ["Java DSA", "LeetCode Daily", "Gen-AI Engineering", "LangChain"],
-  dsaProgress:       "20+ LeetCode problems solved — grinding daily",
+  dsaProgress:       "40+ LeetCode problems solved — grinding daily",
   available:         ["Internships", "Junior Dev Roles", "Freelance", "Open Source"],
   goal:              "Become a future-proof Full-Stack Gen-AI Engineer",
 };
