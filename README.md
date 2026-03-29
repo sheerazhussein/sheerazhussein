@@ -27,7 +27,6 @@
 const developer = {
   name:        "Sheeraz Hussain",
   title:       "Full-Stack Software Engineer",
-  location:    "Karachi, Pakistan 🇵🇰",
   education: [
     "Associate Engineering in CIT — Razzaqabad College (Ongoing)",
     "ACCP in AI — Aptech Karachi (2025–Present) · Distinction Grade ⭐"
@@ -41,8 +40,7 @@ const developer = {
   },
   currentlyLearning: ["Java DSA", "LeetCode Daily", "Gen-AI Engineering", "LangChain"],
   dsaProgress:       "40+ LeetCode problems solved — grinding daily",
-  available:         ["Internships", "Junior Dev Roles", "Freelance", "Open Source"],
-  goal:              "Become a future-proof Full-Stack Gen-AI Engineer",
+  available:         ["Internships", "Junior Dev Roles", "Freelance", "Open Source"]
 };
 ```
 
